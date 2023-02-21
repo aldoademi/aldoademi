@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :hammer_and_wrench: Languages and Tools :
+https://github-readme-streak-stats.herokuapp.com/?user=aldoademi
 
 <!--
 **aldoademi/aldoademi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
